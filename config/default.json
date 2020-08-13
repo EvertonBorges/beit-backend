@@ -1,0 +1,10 @@
+{
+    "mongoose": {
+        "configs": {
+            "useUnifiedTopology": true,
+            "useFindAndModify": false,
+            "useNewUrlParser": true,
+            "useCreateIndex": true
+        }
+    }
+}

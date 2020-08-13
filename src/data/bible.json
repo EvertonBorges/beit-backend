@@ -1,0 +1,19 @@
+[
+    {
+        "version": "Nova Tradução na Linguagem de Hoje",
+        "title": "Nova Tradução na Linguagem de Hoje",
+        "date_creation": "2020-08-11",
+        "date_update": "2020-08-11",
+        "date_delete": null,
+        "books": [
+            {
+                "book": "Gênesis",
+                "chapters": 50
+            },
+            {
+                "book": "Êxodo",
+                "chapters": 40
+            }
+        ]
+    }
+]
